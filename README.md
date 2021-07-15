@@ -18,6 +18,7 @@ please see my updated portfolio with added prokects!
 
 ## Usage
 please click the link below and enjoy.
+https://eddie-coronado.github.io/Professional-Portfolio-V2/
 
 ## Credits
 Eddie Coronado
