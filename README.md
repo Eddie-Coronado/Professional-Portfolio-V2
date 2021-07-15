@@ -17,7 +17,7 @@ please see my updated portfolio with added prokects!
 [License](#license)
 
 ## Usage
-please click the link below and enjoy.
+please click the link and enjoy.
 https://eddie-coronado.github.io/Professional-Portfolio-V2/
 
 ## Credits
